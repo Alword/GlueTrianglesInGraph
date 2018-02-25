@@ -1,0 +1,7 @@
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\bin\Debug\PersistentStack.exe.config
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\bin\Debug\PersistentStack.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\bin\Debug\PersistentStack.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\obj\Debug\PersistentStack.csprojResolveAssemblyReference.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\obj\Debug\PersistentStack.csproj.CoreCompileInputs.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\obj\Debug\PersistentStack.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\PersistentStack\obj\Debug\PersistentStack.pdb

@@ -1,0 +1,7 @@
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Debug\TreeData.exe.config
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Debug\TreeData.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Debug\TreeData.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Debug\TreeData.csproj.CoreCompileInputs.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Debug\TreeData.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Debug\TreeData.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Debug\TreeData.csprojResolveAssemblyReference.cache

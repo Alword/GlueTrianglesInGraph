@@ -1,0 +1,30 @@
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.exe.config
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.exe
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.pdb
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csprojResolveAssemblyReference.cache
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\App.g.cs
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI_MarkupCompile.cache
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI_MarkupCompile.lref
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\MainWindow.baml
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.g.resources
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.Properties.Resources.resources
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csproj.GenerateResource.Cache
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csproj.CoreCompileInputs.cache
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.exe
+C:\Users\Артём\YandexDisk\!ИКБО-02-16\Структуры и алгоритмы обработки данных\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.exe.config
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\bin\Debug\TriangleUI.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csprojResolveAssemblyReference.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\App.g.cs
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI_MarkupCompile.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI_MarkupCompile.lref
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\MainWindow.baml
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.g.resources
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.Properties.Resources.resources
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csproj.GenerateResource.Cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.csproj.CoreCompileInputs.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TriangleUI\obj\Debug\TriangleUI.pdb

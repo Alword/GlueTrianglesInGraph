@@ -1,0 +1,6 @@
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Release\TreeData.exe.config
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Release\TreeData.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\bin\Release\TreeData.pdb
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Release\TreeData.csproj.CoreCompileInputs.cache
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Release\TreeData.exe
+C:\Users\Артём\YandexDisk\#Университет\!ИКБО-02-16\СиА ОД\labs\ConsoleApp1\TreeData\obj\Release\TreeData.pdb
